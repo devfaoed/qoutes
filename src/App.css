@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #a88beb;
+}
+.back{
+    background: #778899;
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    margin: 300px auto;
+    padding: 40px 20px;
+    color: #fff;
+    font-family: 'tw cen mt';
+    border-radius: 20px;
+}
+.qoutes{
+    padding: 10px;
+    
+}
+.break{
+   position: absolute;
+   bottom: 230px;
+   margin-left: 39px;
+}
+.btn{
+   position: absolute;
+   bottom: 170px;
+   margin-left: -30px;
+   border: none;
+   background: #66ff99;
+   color: #fff;
+   height: 50px;
+   width: 50px;
+   border-radius: 40px;
+}
