@@ -1,3 +1,7 @@
+#Info about the project
+This is a Qoutes generating App which will generate qoutes randomly
+build with react js @ 30days of CODE 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
